@@ -51,13 +51,13 @@ hr {
 
 .topcloud {
   position: absolute;
-  right: 300px;
+  right: 100px;
   top: 30px;
 }
 
 .bottomcloud {
   position: absolute;
-  left: 300px;
+  left: 100px;
 }
 
 .Topcontainer {
